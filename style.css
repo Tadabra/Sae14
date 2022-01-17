@@ -1,4 +1,6 @@
-
+a{
+  color:var(--white-color);
+}
 *{
   margin: 0;
   padding: 0;
